@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sankhadipjana3456@gmail.com**
 
-- 📄 Know about my experiences (C:/Users/Sankhadip/Videos/Sankhadip.pdf)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1M06liYNXxKS0OLtxOV-QncYIxYaIGp_F/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Funny**
 
