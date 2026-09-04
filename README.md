@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/sankhadip123/sankhadip123/blob/main/Sankhadip.png)
 <h1 align="center">Hi 👋, I'm Sankhadip Jana</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
